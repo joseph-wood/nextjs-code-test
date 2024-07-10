@@ -6,6 +6,9 @@ Welcome to the Khemistry Next.js code test!
 
 - [Fork this repo](https://github.com/growthops-digital/nextjs-code-test/fork) and complete the assigment on your own copy of this repository.
 - Create and implement the missing component(s) on the home page based on the supplied design below.
+	- The FAQ section has multiple panels (Students, Teachers, etc.) that when selected will show the FAQ blocks associated with it below.
+	- The first FAQ block in each panel should be open by default.
+	- The entire FAQ section should be keyboard navigable.
 - Ensure that the data you supply to your component comes from the `getFAQData` function (already created for you).
 
 ## Important details
